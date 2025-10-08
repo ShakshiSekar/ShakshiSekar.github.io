@@ -1,2 +1,2 @@
-# ShakshiSekar.github.io
+# Shakshi Sekar
 Resume
