@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Shakshi Sekar"
 
 positions:
-- name: Doctoral candidate
-- name: Penn State 
+- name: Doctoral candidate, Penn State
+#- name: Penn State
   logo: /assets/images/badges/PSU logo.png  # Logo is optional
 
 
