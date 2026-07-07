@@ -19,6 +19,6 @@ authors:
   - Harshavardhan Choudhari
   - Ravikrishnan Vinu
 links:
-  #Code: https://github.com/luost26/academic-homepage
+  Code: https://www.semanticscholar.org/paper/Biomass-Fast-Pyrolysis-Kinetics-using-Curie-Point-Prashanth-Sarma/5f93665510dcd7f37b3dc4b7eaed789fa3400dbe
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
