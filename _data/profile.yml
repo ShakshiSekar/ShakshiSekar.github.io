@@ -34,7 +34,7 @@ portrait_url: /assets/images/photos/Sekar_Shakshi (1).jpg
 #portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-research education:
+education:
 - name: Massachusetts Institute of Technology
   logo: /assets/images/badges/PSU logo.png
   position: >- 
@@ -46,7 +46,7 @@ research education:
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
 
-# experience:
+research experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
