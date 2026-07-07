@@ -5,7 +5,7 @@ navbar_name: "Shakshi Sekar"
 positions:
 - name: Doctoral candidate
 - name: Penn State 
-  logo: /assets/images/badges/PSU logo.png  # Logo is optional
+  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "sms9437@psu.edu"
@@ -31,12 +31,12 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/Sekar_Shakshi (1).jpg
-#portrait_caption: >-
+portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/PSU logo.png
+  logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
@@ -46,11 +46,11 @@ education:
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
 
-research experience:
- - name: Peking University
-   logo: /assets/images/badges/PKU_red.png
-   position: Research Intern
-   date: Sep. 2019 - Jul. 2021
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
 
 awards:
 - name: Award Name 2
