@@ -17,6 +17,6 @@ authors:
   #- Some Other Name
   - Randy Vander Wal
 links:
-  #Code: https://github.com/luost26/academic-homepage
+  Paper: https://www.sciencedirect.com/science/article/pii/S0925963526002700?ref=pdf_download&fr=RR-2&rr=a105e1e619853ec9#bb0180
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
