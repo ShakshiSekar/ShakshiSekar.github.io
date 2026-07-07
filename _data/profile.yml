@@ -9,9 +9,9 @@ positions:
 
 
 email: "sms9437@psu.edu"
-cv_link: "https://pennstateoffice365-my.sharepoint.com/:b:/r/personal/sms9437_psu_edu/Documents/Scholarships/Resume.pdf?csf=1&web=1&e=y43Sjy"
-gscholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=RgMYkcoAAAAJ"  # This is an example, replace it with your own Google Scholar ID
-linkedin: "https://www.linkedin.com/in/shakshi-segar/"  # Do not include the '@' symbol
+cv_link: https://pennstateoffice365-my.sharepoint.com/:b:/r/personal/sms9437_psu_edu/Documents/Scholarships/Resume.pdf?csf=1&web=1&e=y43Sjy
+gscholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=RgMYkcoAAAAJ  # This is an example, replace it with your own Google Scholar ID
+Linkedin: https://www.linkedin.com/in/shakshi-segar/  # Do not include the '@' symbol
 github: your_github_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -31,24 +31,26 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-# portrait_caption: >-
+portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Pennsylvania State University
+- name: Massachusetts Institute of Technology
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: Doctoral candidate, Department of Energy and Mineral Engineering 
-  date: Aug. 2023 - present
-- name: National Institute of Technology, Srinagar
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
+    Ph.D. Student
+  date: Sep. 2024 - present
+- name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.Tech. in Chemical Engineering
-  date: Aug. 2018 - Jul. 2022
+  position: B.S. in Computer Science
+  date: Sep. 2019 - Jul. 2021
 
-Research experience:
- - name: Pennsylvania State University
-  logo: /assets/images/badges/PKU_red.png
-  position: Doctoral candidate, Lab of Dr Randy Vander Wal
-  date:  Aug. 2023 - present
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
 
 awards:
 - name: Award Name 2
