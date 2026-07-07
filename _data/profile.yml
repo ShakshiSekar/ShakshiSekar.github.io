@@ -5,7 +5,7 @@ navbar_name: "Shakshi Sekar"
 positions:
 - name: Doctoral candidate, Penn State
 #- name: Penn State
-  logo: /assets/images/badges/PSU logo.png  # Logo is optional
+#  logo: /assets/images/badges/PSU logo.png  # Logo is optional
 
 
 email: "sms9437@psu.edu"
