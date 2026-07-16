@@ -3,9 +3,9 @@ layout: blog_post
 title: 'Waste to Wealth: The Journey of Plastics to Graphite'
 date: 2026-03-17
 tags:
-  - Blog
-  - Post
-  - Tag
+  - Graphite
+  - Plastic waste
+  - Carbon
 ---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
