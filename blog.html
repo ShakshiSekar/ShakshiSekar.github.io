@@ -6,7 +6,7 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-{% assign blogs_by_year = site.posts | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign blogs_by_year = site.posts | sort: "date" | reverse | group_by_exp: "item", "item.categories | first" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
