@@ -2,6 +2,7 @@
 layout: blog_post
 title: 'Waste to Wealth: The Journey of Plastics to Graphite'
 date: 2026-03-17
+categories: Digital Presentations
 tags:
   - Graphite
   - Plastic waste
