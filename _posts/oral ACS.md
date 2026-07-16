@@ -1,7 +1,7 @@
 ---
 layout: blog_post
-title: 'Turning Trash into Treasure: Converting Plastic Waste into Battery Grade Graphite'
-date: 2025-11-21
+title: 'Upcycling polystyrene into graphite using graphenic templating agents for Li-ion batteries'
+date: 2025-8-20
 categories: Oral Presentations
 tags:
   - Graphite
