@@ -2,6 +2,7 @@
 layout: blog_post
 title: 'Turning Trash into Treasure: Converting Plastic Waste into Battery Grade Graphite'
 date: 2025-11-21
+categories: Oral Presentations
 tags:
   - Graphite
   - Carbon
