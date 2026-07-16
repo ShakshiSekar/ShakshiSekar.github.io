@@ -1,0 +1,13 @@
+---
+layout: blog_post
+title: 'Turning Trash into Treasure: Converting Plastic Waste into Battery Grade Graphite'
+date: 2025-11-21
+tags:
+  - Graphite
+  - Carbon
+  - Plastic wastes
+---
+This is an oral presentation at the American Chemical Society Conference, Washington D.C.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/37btczb9FJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
