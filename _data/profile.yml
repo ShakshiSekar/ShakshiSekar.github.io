@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shakshi Sekar"
 
 positions:
-- name: Doctoral candidate, Penn State
+- name: Doctoral candidate, <a href="https://www.psu.edu/" target="_blank">Penn State</a>
 #- name: Penn State
 #  logo: /assets/images/badges/PSU logo.png  # Logo is optional
 
@@ -22,8 +22,7 @@ orcid: 0009-0000-8559-7907
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a doctoral candidate from <a href="https://www.psu.edu/" target="_blank">Penn State</a> working with <a href="https://www.eme.psu.edu/directory/randy-l-vander-wal" target="_blank">Prof. Randy Vander Wal.</a>
-    My specialization is in sustainable carbon technologies, focusing on thermo-chemical upcycling of waste plastics to the critical mineral graphite. 
+    I am working with <a href="https://www.eme.psu.edu/directory/randy-l-vander-wal" target="_blank">Prof. Randy Vander Wal.</a> specializing in sustainable carbon technologies, focusing on thermo-chemical upcycling of waste plastics to the critical mineral graphite. 
   </p>
   <p>
     Proficient in advanced material characterization techniques using High Resolution Transmission Electron Microscopy 
