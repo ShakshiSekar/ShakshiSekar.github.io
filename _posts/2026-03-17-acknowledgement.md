@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-title: 'Acknowledgement'
+title: 'Waste to Wealth: The Journey of Plastics to Graphite'
 date: 2026-03-17
 tags:
   - Blog
