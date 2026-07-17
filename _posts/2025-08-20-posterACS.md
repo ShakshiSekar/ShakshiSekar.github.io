@@ -2,11 +2,13 @@
 layout: blog_post
 title: 'Strategic graphitization of polyethylene terephthalate: Graphene guided upcycling to graphite for advanced carbon applications'
 date: 2025-08-20
+categories: Poster Presentations
 tags:
   - PET plastic bottles 
   - Graphite
   - Graphene
 ---
+This is a poster presentation at the American Chemical Society Conference, Washington D.C.
 
 ## Abstract
 ```
