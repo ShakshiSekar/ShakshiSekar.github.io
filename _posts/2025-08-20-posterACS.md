@@ -19,5 +19,5 @@ Polyethylene terephthalate (PET) is a major contributor to single-use plastic wa
 
 ## Images
 
-
+![Presenting at ACS conference](/assets/images/poster2.jpg)
 
