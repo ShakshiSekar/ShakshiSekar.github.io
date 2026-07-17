@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-title: 'Strategic graphitization of polyethylene terephthalate: Graphene guided upcycling to graphite for advanced carbon applications'
+title: 'Strategic graphitization of PET: Graphene guided upcycling to graphite for advanced carbon applications'
 date: 2025-08-20
 categories: Poster Presentations
 tags:
@@ -17,28 +17,7 @@ Polyethylene terephthalate (PET) is a major contributor to single-use plastic wa
 
 [Refer to the Linkedin post here.](https://www.linkedin.com/posts/shakshi-segar_acsfall2025-enfl-carbon-ugcPost-7365782292117524481--Qi1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOUmMoBebV_iVKFNnjDcIgqr_C1tydn0VA)
 
-# Images
+## Images
 
-```
-Here's our logo (hover to see the title text):
 
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-```
 
