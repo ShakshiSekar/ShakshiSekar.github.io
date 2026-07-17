@@ -1,0 +1,63 @@
+---
+layout: blog_post
+title: 'Strategic graphitization of polyethylene terephthalate: Graphene guided upcycling to graphite for advanced carbon applications'
+date: 2025-08-20
+tags:
+  - PET plastic bottles 
+  - Graphite
+  - Graphene
+---
+
+## Abstract
+```
+Polyethylene terephthalate (PET) is a major contributor to single-use plastic wastes. PET normally forms a non-graphitizable char due to its inherent oxygen content, making it challenging to upcycle into valuable carbon materials. This study demonstrates the conversion of PET to highly crystalline graphitic carbon through a novel approach: carbonization followed by graphitization, employing graphene and graphene oxide (GO) as templating agents. Graphene's sp² framework serves as a structural template, guiding the orientation of emerging aromatic domains during carbonization. Simultaneously, the oxygen groups in GO incorporate oxygen into the polymer matrix. During carbonization, these oxygen sites facilitate radical formation, resulting in polymer chain crosslinking and aromatic domain formation. This oxygen infusion and subsequent concatenation are essential to produce ordered crystallite domains. This approach circumvents the purification challenges associated with conventional catalytic methods used for initiating graphitic structures. Characterization techniques including transmission electron microscopy (TEM), X-ray diffraction (XRD), and Raman spectroscopy collectively reveal improved graphitic ordering with enhanced crystallite parameters (d₀₀₂, Lₐ, and Lc) compared to untreated PET char. The resultant synthetic graphite exhibits flake-like morphology and well-stacked nanostructure, making it a promising candidate electrode material for lithium-ion batteries in electric vehicles. This upcycling strategy delivers significant environmental and economic benefits by diverting PET from landfills, reducing CO₂ emissions compared to traditional graphite manufacturing processes, and producing premium graphitic materials for expanding clean energy markets. With PET representing a significant portion of the 16 million tons of single-use plastic packaging generated annually in the United States, this approach contributes meaningfully to circular economy principles while addressing critical materials needs. 
+
+```
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or <http://www.example.com> and sometimes
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+```
+
+# Images
+
+```
+Here's our logo (hover to see the title text):
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+Like links, Images also have a footnote style syntax
+
+![Alt text][id]
+
+With a reference later in the document defining the URL location:
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+```
+
