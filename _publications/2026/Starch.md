@@ -1,15 +1,15 @@
 ---
-title:          "Upcycling PET plastic waste: A graphenic additive templated approach to synthetic graphite"
+title:          "Synthesis of Biographite from Starch Biomass Using Additive Assisted Templating Approach"
 date:           2026-03-20 00:01:00 +0800
 selected:       true
-pub:            "Diamond and Related Materials"
+pub:            "ACS Omega"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 semantic_scholar_id: https://www.semanticscholar.org/paper/Upcycling-PET-plastic-waste%3A-A-graphenic-additive-Sekar-Wal/5328de1a5729eff38909e5c2be6047502114545f # use this to retrieve citation count
 abstract: >-
- Polyethylene terephthalate (PET) is a major contributor to single-use plastic waste. Its inherent oxygen content forms non-graphitizable char during thermal treatment, making upcycling into valuable carbon materials challenging. This study demonstrates a novel catalyst-free approach for converting waste PET into highly crystalline graphitic carbon using graphene oxide (GO) and graphene (Gr) as templating additives during carbonization and graphitization. This circumvents the purification challenges associated with conventional catalytic methods. Successful graphitization leverages oxygen functional groups in GO and reactive edge sites in Gr to precisely control structure formation. The critical variables identified are: (a) reactive edge oxygen content, (b) edge-to-basal oxygen ratio and (c) graphene layer accessibility. GO facilitates graphitization, where edge oxygen groups promote lateral crystallite growth and basal plane oxygen causes cross-linking that helps coherent crystallite alignment. Gr templating operates through a dual-pathway mechanism. Edge sites serve as reactive nucleation points for lateral growth (La), while sp2 basal plane enables π-π templating for vertical stacking (Lc). Comprehensive characterization using X-ray diffraction (XRD), Raman spectroscopy, high-resolution transmission electron microscopy (HRTEM), and selected area electron diffraction (SAED) reveal optimal performance at 2.5 wt% GO loading. GO with 10 at.% oxygen achieved ∼228% increase in La and ∼ 200% increase in Lc compared to pure PET, surpassing natural graphite. Among Gr additives, the lowest stacking height demonstrated superior performance with ∼167% and ∼ 190% increase in La and Lc respectively. At optimal loadings, the process yields both graphitic carbon, and hard carbon offering sustainable upcycling of waste PET.
+ Graphite is a critical mineral with wide-ranging applications in electronics, energy storage, and advanced materials manufacturing. As natural reserves remain limited, there is growing interest in using carbon-rich renewable precursors as alternative feedstocks for synthetic graphite production. Starch, being a widely available, renewable, and carbon-neutral biopolymer, is a compelling, sustainable alternative precursor for graphitic carbon synthesis. However, its inherently nongraphitizable nature requires templating additives to achieve graphitic ordering. In this study, we present a catalyst-free thermal route to produce graphitic carbon from starch-biopolymer-based packing peanuts through carbonization and graphitization, using graphene oxide (GO) and graphene (Gr) as templating additives. The resulting carbon structures were characterized using high-resolution transmission electron microscopy (HRTEM), selected area electron diffraction (SAED), X-ray diffraction (XRD), and Raman spectroscopy to evaluate the improvements in crystallite parameters La and Lc. At the optimal condition of 2.5 wt % GO loading, crystallite parameters of La = 77.9 nm and Lc = 25.94 nm were achieved, closely approaching those of natural graphite (La = 100 nm, Lc = 24.6 nm). Oxygen content, edge-to-basal oxygen ratio, sp2 π-network, and stacking height are identified as the key factors governing the formation of graphitic or hard carbon from the starch precursor. Unlike conventional catalytic graphitization, this approach requires no metal catalysts, eliminating postprocessing purification entirely. The results establish starch biopolymer as a viable and sustainable precursor for graphitic carbon production.
 cover:          /assets/images/covers/PET paper.jpg
 authors:
   - Shakshi Sekar
@@ -17,6 +17,6 @@ authors:
   #- Some Other Name
   - Randy Vander Wal
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0925963526002700?ref=pdf_download&fr=RR-2&rr=a105e1e619853ec9#bb0180
+  Paper: https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08092/5474370
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
